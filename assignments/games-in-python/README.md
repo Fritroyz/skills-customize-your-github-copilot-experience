@@ -25,25 +25,18 @@ Completed program should:
 ### 🛠️ Optional Extensions
 
 #### Description
-Add one or more extra features to make the game more complete or user-friendly.
+Add one or more extra features to make the game more complete or user-friendly. These are optional and meant for students who finish the core requirements early.
 
-#### Suggestions
+#### Requirements
+Completed extension work may include one or more of the following:
 
 - Allow guessing the full word as an input to win immediately.
-- Add ASCII-art for the hangman that updates with incorrect guesses.
+- Add ASCII-art that updates as incorrect guesses accumulate.
 - Support difficulty levels that change `max_incorrect` or the word list.
-- Persist high scores or best times to a simple file.
+- Persist simple high scores or best times to a local file.
 
-## 📁 Starter Files
-
-- `starter-code.py` — starter code and word list to modify and run.
-
-## ▶️ Run
-
-Run the assignment locally with:
-
-```bash
-python3 starter-code.py
-```
+#### Notes
+- Starter file: `starter-code.py` is provided to get started.
+- Run locally with: `python3 starter-code.py`.
 
 Good luck — have fun building Hangman! 🎮
