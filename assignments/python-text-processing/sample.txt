@@ -1,0 +1,7 @@
+Python is a great language for text processing. It provides powerful string methods,
+regular expression support, and easy file I/O.
+
+This sample file contains a few repeated words to test counting and frequency analysis.
+Python python PyThOn is case-insensitive when normalized to lowercase.
+
+Use this file to exercise the `starter-code.py` utilities.

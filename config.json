@@ -58,6 +58,25 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "working with strings, file I/O, and text manipulation",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-06-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Text",
+          "file": "sample.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
