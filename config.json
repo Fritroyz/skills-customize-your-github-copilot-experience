@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "algorithms-search-sort",
+      "title": "Algorithms — Search & Sort",
+      "description": "Implement search and sorting algorithms and analyze runtime",
+      "path": "assignments/algorithms-search-sort",
+      "dueDate": "2026-06-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
